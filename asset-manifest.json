@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "https://pablo-gzz-sal.github.io/csb-hrc3fi/static/css/main.7ed4757d.chunk.css",
+    "main.js": "https://pablo-gzz-sal.github.io/csb-hrc3fi/static/js/main.f5b68060.chunk.js",
+    "main.js.map": "https://pablo-gzz-sal.github.io/csb-hrc3fi/static/js/main.f5b68060.chunk.js.map",
+    "runtime-main.js": "https://pablo-gzz-sal.github.io/csb-hrc3fi/static/js/runtime-main.84bc5fb0.js",
+    "runtime-main.js.map": "https://pablo-gzz-sal.github.io/csb-hrc3fi/static/js/runtime-main.84bc5fb0.js.map",
+    "static/js/2.98463c24.chunk.js": "https://pablo-gzz-sal.github.io/csb-hrc3fi/static/js/2.98463c24.chunk.js",
+    "static/js/2.98463c24.chunk.js.map": "https://pablo-gzz-sal.github.io/csb-hrc3fi/static/js/2.98463c24.chunk.js.map",
+    "index.html": "https://pablo-gzz-sal.github.io/csb-hrc3fi/index.html",
+    "static/css/main.7ed4757d.chunk.css.map": "https://pablo-gzz-sal.github.io/csb-hrc3fi/static/css/main.7ed4757d.chunk.css.map",
+    "static/js/2.98463c24.chunk.js.LICENSE.txt": "https://pablo-gzz-sal.github.io/csb-hrc3fi/static/js/2.98463c24.chunk.js.LICENSE.txt",
+    "static/media/bgImg.af8e6bfa.jpg": "https://pablo-gzz-sal.github.io/csb-hrc3fi/static/media/bgImg.af8e6bfa.jpg",
+    "static/media/bgWhite.1d167395.jpg": "https://pablo-gzz-sal.github.io/csb-hrc3fi/static/media/bgWhite.1d167395.jpg",
+    "static/media/daltonist.65338003.PNG": "https://pablo-gzz-sal.github.io/csb-hrc3fi/static/media/daltonist.65338003.PNG",
+    "static/media/devsProject.aeb6e0d9.png": "https://pablo-gzz-sal.github.io/csb-hrc3fi/static/media/devsProject.aeb6e0d9.png",
+    "static/media/diocletians.388f819f.PNG": "https://pablo-gzz-sal.github.io/csb-hrc3fi/static/media/diocletians.388f819f.PNG",
+    "static/media/fetivi.5dbfb241.PNG": "https://pablo-gzz-sal.github.io/csb-hrc3fi/static/media/fetivi.5dbfb241.PNG",
+    "static/media/firebase.5a0dfe3c.svg": "https://pablo-gzz-sal.github.io/csb-hrc3fi/static/media/firebase.5a0dfe3c.svg",
+    "static/media/gifsProject.5d511b10.png": "https://pablo-gzz-sal.github.io/csb-hrc3fi/static/media/gifsProject.5d511b10.png",
+    "static/media/helloProject.abbca6cc.png": "https://pablo-gzz-sal.github.io/csb-hrc3fi/static/media/helloProject.abbca6cc.png",
+    "static/media/hotelProject.a003d00c.png": "https://pablo-gzz-sal.github.io/csb-hrc3fi/static/media/hotelProject.a003d00c.png",
+    "static/media/logo_transparent.7f1d6658.png": "https://pablo-gzz-sal.github.io/csb-hrc3fi/static/media/logo_transparent.7f1d6658.png",
+    "static/media/pabloPicPort.b9da8932.png": "https://pablo-gzz-sal.github.io/csb-hrc3fi/static/media/pabloPicPort.b9da8932.png",
+    "static/media/woocommerce.6f0f051f.png": "https://pablo-gzz-sal.github.io/csb-hrc3fi/static/media/woocommerce.6f0f051f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84bc5fb0.js",
+    "static/js/2.98463c24.chunk.js",
+    "static/css/main.7ed4757d.chunk.css",
+    "static/js/main.f5b68060.chunk.js"
+  ]
+}
